@@ -23,4 +23,4 @@ To run this project locally, you need to have Node.js and npm installed on your 
 
 ## Demo
 
-You can view a live demo of this project here: [https://frontend-camp-traveler.vercel.app/](^2^)
+You can view a live demo of this project here: [https://frontend-camp-traveler.vercel.app]
