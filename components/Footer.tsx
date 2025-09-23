@@ -60,7 +60,7 @@ const Footer = () => {
             </div>
 
             <div className="border bg-gray-20" />
-            <p className="regular-14 w-full text-center text-violet-50">2024 Martha Nieto | All rights reserved</p>
+            <p className="regular-14 w-full text-center text-violet-50">{new Date().getFullYear()} Martha M. Nieto | All rights reserved</p>
         </div>
     </footer>
   )

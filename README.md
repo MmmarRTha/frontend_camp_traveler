@@ -1,26 +1,82 @@
-# Frontend Camp Traveler
+# Travel App 🌍
 
-Frontend Camp Traveler is a fully responsive UI/UX website that showcases various travel destinations around the world. It is built with React, Next.js, Tailwind CSS, and TypeScript, following the mobile-first design principle.
+A modern, fully responsive travel application built with Next.js, React, TypeScript, and Tailwind CSS. This application showcases beautiful travel destinations and provides an exceptional user experience with modern web technologies.
 
-## Features
+## ✨ Features
 
-- Browse different travel categories such as nature, culture, adventure, and more
-- View detailed information and images of each destination
-- Filter destinations by price, rating, or popularity
-- Book your trip with a simple and secure checkout process
-- Enjoy a fast and smooth user experience with server-side rendering and image optimization
+- **Responsive Design**: Mobile-first approach ensuring perfect display on all devices
+- **Modern UI/UX**: Clean, intuitive interface with smooth animations
+- **TypeScript Support**: Full type safety for better development experience
+- **Optimized Performance**: Server-side rendering and image optimization with Next.js
+- **Component-Based Architecture**: Reusable components for maintainable code
+- **Tailwind CSS**: Utility-first CSS framework for rapid styling
+- **Dynamic Footer**: Automatically updates copyright year
 
-## Installation
+## 🛠️ Tech Stack
 
-To run this project locally, you need to have Node.js and npm installed on your machine. Then follow these steps:
+- **Framework**: Next.js 15.5.3
+- **Frontend**: React 18
+- **Language**: TypeScript 5
+- **Styling**: Tailwind CSS 3
+- **Build Tool**: Next.js built-in bundler
+- **Package Manager**: npm
 
-- Clone this repository: `git clone https://github.com/MmmarRTha/frontend_camp_traveler.git`
-- Navigate to the project folder: `cd frontend_camp_traveler`
-- Install the dependencies: `npm install`
-- Copy the example environment file: `cp .env.example .env`
-- Run the development server: `npm run dev`
-- Open [http://localhost:3000](^1^) in your browser
+## 📦 Installation
 
-## Demo
+### Prerequisites
+- Node.js (version 18 or higher)
+- npm or yarn package manager
 
-You can view a live demo of this project here: [https://frontend-camp-traveler.vercel.app]
+### Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/MmmarRTha/frontend_camp_traveler.git
+   cd travel_app
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000) to view the application
+
+## 🚀 Available Scripts
+
+- `npm run dev` - Start the development server
+- `npm run build` - Build the application for production
+- `npm run start` - Start the production server
+- `npm run lint` - Run ESLint for code quality checks
+
+## 📁 Project Structure
+
+```
+travel_app/
+├── components/          # Reusable UI components
+│   └── Footer.tsx      # Footer component with dynamic year
+├── constants/          # Application constants and data
+├── public/            # Static assets
+├── styles/            # Global styles and Tailwind config
+├── package.json       # Dependencies and scripts
+└── README.md         # Project documentation
+```
+
+## 🎨 Styling
+
+This project uses Tailwind CSS for styling with a custom design system. The application follows a consistent color palette and typography scale for a cohesive user experience.
+
+## 👩‍💻 Author
+
+**Martha M. Nieto**
+- GitHub: [@MmmarRTha](https://github.com/MmmarRTha)
+
+## 📄 License
+
+© 2025 Martha M. Nieto | All rights reserved
