@@ -1,4 +1,5 @@
 # Travel App 🌍
+<img alt="Screenshot 2025-11-03 at 19-04-56 Travel App" src="https://github.com/user-attachments/assets/33793ad8-2a45-4c9e-a605-e9d256c08c63" />
 
 A modern, fully responsive travel application built with Next.js, React, TypeScript, and Tailwind CSS. This application showcases beautiful travel destinations and provides an exceptional user experience with modern web technologies.
 
